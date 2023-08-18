@@ -1,1 +1,1 @@
-# CodeClauseInternship_Task-2---Basic-Text-Editor
+# CodeClauseInternship_Task2-BasicTextEditor
